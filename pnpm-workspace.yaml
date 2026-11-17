@@ -1,0 +1,9 @@
+allowBuilds:
+  esbuild: true
+minimumReleaseAgeExclude:
+  - '@langchain/langgraph-api@1.8.0'
+  - '@langchain/langgraph-checkpoint@1.2.3'
+  - '@langchain/langgraph-cli@1.8.0'
+  - '@langchain/langgraph-sdk@1.17.0'
+  - '@langchain/langgraph-ui@1.8.0'
+  - '@langchain/langgraph@1.7.5'
